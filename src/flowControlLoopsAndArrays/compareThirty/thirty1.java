@@ -1,4 +1,4 @@
-package flowControlLoopsAndArrays;
+package flowControlLoopsAndArrays.compareThirty;
 
 import java.util.Scanner;
 
