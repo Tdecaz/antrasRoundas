@@ -1,6 +1,6 @@
 package basic.maxIntPlusMaxInt;
 
-public class MaxIntPlusInt {
+public class MaxIntPlusInt4 {
 
     public static void main(String[] args) {
 

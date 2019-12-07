@@ -2,7 +2,7 @@ package basic.aVar;
 
 import java.util.Scanner;
 
-public class RoundTwoNumbers {
+public class RoundTwoNumbers2 {
     public static void main(String[] args){
 
         Scanner inputScanner = new Scanner(System.in);

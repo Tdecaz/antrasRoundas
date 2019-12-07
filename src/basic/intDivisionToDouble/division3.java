@@ -2,7 +2,7 @@ package basic.intDivisionToDouble;
 
 import java.util.Scanner;
 
-public class division {
+public class division3 {
 
     public static void main(String[] args) {
 
